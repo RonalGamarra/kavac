@@ -7,7 +7,7 @@
 # KAVAC | Sistema de Gestión Organizacional
 
 ## Sobre la aplicación
-fWkoPHKPCeAqudNnbhQdckokVBeYdoxw
+
 
 KAVAC es una aplicación para la gestión organizacional, permite registrar y controlar todos los procesos de la formulación y ejecución de presupuesto, así como toda la información relevante de operatividad. Este proyecto surge como iniciativa en la mejora de los procesos administrativos apuntando al uso de nuevas tecnologías.
 
